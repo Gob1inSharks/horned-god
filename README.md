@@ -1,1 +1,1 @@
-# horned-god
+# horns
